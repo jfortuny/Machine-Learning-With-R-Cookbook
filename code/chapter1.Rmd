@@ -108,4 +108,3 @@ Dataset for Machine Learning
 iris.data = read.csv(url("http://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"), header = FALSE,  col.names = c("Sepal.Length", "Sepal.Width", "Petal.Length", "Petal.Width", "Species"))
 head(iris.data)
 ```
-
